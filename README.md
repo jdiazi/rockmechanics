@@ -1,1 +1,1 @@
-# rockmechanics
+# Rock Mechanics EDA
